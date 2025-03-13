@@ -76,6 +76,8 @@
 			}
 		});
 	}
+	
+
 
 	/* testimonial Slider JS */
 	if ($('.testimonial-slider').length) {
