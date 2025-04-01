@@ -4998,7 +4998,7 @@ header.main-header .header-sticky.active {
 }
 
 .footer-social-links ul li .youtube {
-	background: red;
+	background: rgb(114, 57, 3);
 }
 
 .footer-social-links ul li .instagram {
@@ -5747,7 +5747,7 @@ img {
 	display: block;
 	font-size: 18px;
 	line-height: 24px;
-	color: #ff2222;
+	color: #14183E;
 	font-weight: 500;
 	margin-bottom: 15px;
 }
@@ -5812,7 +5812,7 @@ img {
 	display: block;
 	font-size: 18px;
 	padding: 0px;
-	color: #ff2222;
+	color: #14183E;
 	font-weight: 600;
 	-moz-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
